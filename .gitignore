@@ -7,7 +7,6 @@
 # MadCap file patterns
 /Target/Output
 /Target/Project/Users
-/Target/Content/NewFolder
 /.svn
 **/Thumbs.db
 *.liprjdb3
